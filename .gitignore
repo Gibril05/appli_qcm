@@ -1,0 +1,13 @@
+# Environnements/IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Build local exe
+build/
+dist/
+*.spec
+
+# Fichiers générés à l'exécution
+resultats_qcm.xlsx
